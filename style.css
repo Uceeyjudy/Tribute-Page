@@ -1,0 +1,23 @@
+html,
+body {
+  min-width: 200px;
+  color: #000000;
+  background-color: wheat;
+  font-family: 'Open Sans', Calibri, sans-serif;
+  line-height: 2.5;
+}
+
+img {
+    width: 500px;
+}
+#img-caption
+{
+  width:400px;
+  
+}
+#image
+{
+  max-width:100%;
+  height: auto;
+  display: block;
+}
